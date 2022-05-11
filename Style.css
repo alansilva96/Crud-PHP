@@ -1,0 +1,15 @@
+nav li {
+    display: inline;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+    margin: 0 0 0 30px;
+}
+nav a:hover{
+    color: #BBBBBB;
+}
